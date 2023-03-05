@@ -13,4 +13,5 @@ tg - sm1ke_o
 почта - smike143@yandex.ru
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anatoly's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm1ke-dev)](https://github.com/anuraghazra/github-readme-stats)
