@@ -12,4 +12,4 @@
 tg - https://t.me/sm1ke_o  
 почта - smike143@yandex.ru  
 
-[![Anatoly's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm1ke-dev)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm1ke-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anatoly's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm1ke-dev&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm1ke-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
